@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tahaStephan
 - 👀 I’m interested in Backend and Frontend web engineering 
-- 🌱 I’m currently learning Next.js
-- 💞️ I’m looking to collaborate on Microsoft
+- 🌱 I’m currently learning React
 - 📫 How to reach me? there is my e-mail; tahaulgi@outlook.com
+- what you looking at fool that's it all
