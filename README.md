@@ -30,9 +30,9 @@
 
 <h3 align="left">GitHub İstatistiklerim:</h3>
 <p align="center">
-  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SENIN-KULLANICI-ADIN&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaStephan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
   <br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SENIN-KULLANICI-ADIN&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaStephan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 </p>
 
 ---
@@ -40,7 +40,3 @@
 <p align="center"> 
   <img src="https://komarev.com/ghpvc/?username=SENIN-KULLANICI-ADIN&label=Profil+Görüntülenme&color=blue" /> 
 </p>
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=tahaStephan&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaStephan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
