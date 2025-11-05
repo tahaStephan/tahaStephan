@@ -1,29 +1,48 @@
-<h1 align="center">Selam 👋, Ben [Senin Adın]</h1>
-<h3 align="center">Buraya kendini anlatan kısa bir slogan yazabilirsin. (Örn: C# Geliştiricisi | Bulut Meraklısı)</h3>
+<h1 align="center">Selam 👋, Ben [Taha]</h1>
+<h3 align="center">C# Geliştiricisiyim</h3>
 
 ---
 
 <p align="left">
-  👨‍💻 Şu anda **[Şu an çalıştığın proje/teknoloji]** üzerinde çalışıyorum.
+  👨‍💻 Şu anda Şuan da Blazor web teknolojileri üzerine ve makine öğrenmesi üzerinde çalışıyorum.
   <br>
-  🌱 **[Şu an öğrendiğin teknoloji]** öğreniyorum.
+  🌱 python öğreniyorum.
   <br>
-  💬 Bana **[İlgilendiğin konular]** hakkında soru sorabilirsiniz.
-  <br>
-  📫 Bana nasıl ulaşabilirsiniz: **[E-posta adresin veya sosyal medya]**
+  📫 Bana nasıl ulaşabilirsiniz: tahaulgi@outlook.com
 </p>
 
 ---
 
 <h3 align="left">İletişim & Teknolojilerim:</h3>
 <p align="left">
-  <a href="https://linkedin.com/in/[LINKEDIN-KULLANICI-ADIN]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="www.linkedin.com/in/taha-ü-908047248" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
-  <br><br>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  <br>Üzerinde çalışmış olduğum alanlar<br>
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" alt="Linux" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" alt="PHP" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/blazor/blazor-original.svg" alt="Blazor" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dotnetcore/dotnetcore-original.svg" alt=".NET Core" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" alt="MS SQL Server" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" alt="MySQL" width="40" height="40"/>
+  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
+</p>
 </p>
 
 ---
@@ -35,7 +54,3 @@
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tahaStephan&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=SENIN-KULLANICI-ADIN&label=Profil+Görüntülenme&color=blue" /> 
-</p>
