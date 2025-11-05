@@ -1,4 +1,4 @@
-<h1 align="center">Selam 👋, Ben [Taha]</h1>
+<h1 align="center">Selam 👋, Ben Taha</h1>
 <h3 align="center">Bilgisayar Programcılığı Öğrencisiyim</h3>
 
 ---
