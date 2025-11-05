@@ -17,7 +17,7 @@
 <p align="left">
   <a href="https://www.linkedin.com/in/taha-%C3%BC-908047248/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   
-  <br>Üzerinde çalışmış olduğum alanlar<br>
+  <br>🛠️ Araçlar & Teknolojiler<br>
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   
