@@ -6,7 +6,7 @@
 <p align="left">
   👨‍💻 Şu an aktif olarak <b>React</b> ile modern web arayüzleri ve <b>Web API</b> teknolojileri üzerine çalışıyorum.
   <br>
-  🚀 Test otomasyonu tarafında <b>Playwright</b> ile <b>TypeScript</b> kullanarak kaliteli kod çıktıları üretiyorum.
+  🌱 Şu sıralar <b>Playwright</b> ile <b>TypeScript</b> kullanarak test otomasyonu dünyasını keşfediyorum.
   <br>
   🌐 Modern web geliştirme ekosisteminde kendimi derinleştiriyorum.
   <br>
@@ -24,7 +24,7 @@
 
 ---
 
-<h3 align="left">Kullandığım Teknolojiler & Araçlar:</h3>
+<h3 align="left">Kullandığım & Öğrendiğim Teknolojiler:</h3>
 <p align="left">
   <img src="https://skillicons.dev/icons?i=react,ts,js,cs,dotnet,playwright,html,css,mssql,linux,docker,git" alt="My Skills" />
 </p>
