@@ -23,10 +23,3 @@
 </p>
 
 ---
-
-<h3 align="left">Kullandığım & Öğrendiğim Teknolojiler:</h3>
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=react,ts,js,cs,dotnet,playwright,html,css,mssql,linux,docker,git" alt="My Skills" />
-</p>
-
----
